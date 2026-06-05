@@ -1,0 +1,13 @@
+# robots.txt for 成都森田自动化官网
+# https://www.cd-sentian.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.cd-sentian.com/sitemap.xml
+
+# 禁止抓取无关文件
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
